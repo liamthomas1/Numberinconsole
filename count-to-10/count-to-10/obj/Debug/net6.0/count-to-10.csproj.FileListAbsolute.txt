@@ -1,0 +1,15 @@
+D:\Githubnew\Project 1 09062023\Numberinconsole\count-to-10\count-to-10\bin\Debug\net6.0\count-to-10.exe
+D:\Githubnew\Project 1 09062023\Numberinconsole\count-to-10\count-to-10\bin\Debug\net6.0\count-to-10.deps.json
+D:\Githubnew\Project 1 09062023\Numberinconsole\count-to-10\count-to-10\bin\Debug\net6.0\count-to-10.runtimeconfig.json
+D:\Githubnew\Project 1 09062023\Numberinconsole\count-to-10\count-to-10\bin\Debug\net6.0\count-to-10.dll
+D:\Githubnew\Project 1 09062023\Numberinconsole\count-to-10\count-to-10\bin\Debug\net6.0\count-to-10.pdb
+D:\Githubnew\Project 1 09062023\Numberinconsole\count-to-10\count-to-10\obj\Debug\net6.0\count-to-10.csproj.AssemblyReference.cache
+D:\Githubnew\Project 1 09062023\Numberinconsole\count-to-10\count-to-10\obj\Debug\net6.0\count-to-10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Githubnew\Project 1 09062023\Numberinconsole\count-to-10\count-to-10\obj\Debug\net6.0\count-to-10.AssemblyInfoInputs.cache
+D:\Githubnew\Project 1 09062023\Numberinconsole\count-to-10\count-to-10\obj\Debug\net6.0\count-to-10.AssemblyInfo.cs
+D:\Githubnew\Project 1 09062023\Numberinconsole\count-to-10\count-to-10\obj\Debug\net6.0\count-to-10.csproj.CoreCompileInputs.cache
+D:\Githubnew\Project 1 09062023\Numberinconsole\count-to-10\count-to-10\obj\Debug\net6.0\count-to-10.dll
+D:\Githubnew\Project 1 09062023\Numberinconsole\count-to-10\count-to-10\obj\Debug\net6.0\refint\count-to-10.dll
+D:\Githubnew\Project 1 09062023\Numberinconsole\count-to-10\count-to-10\obj\Debug\net6.0\count-to-10.pdb
+D:\Githubnew\Project 1 09062023\Numberinconsole\count-to-10\count-to-10\obj\Debug\net6.0\count-to-10.genruntimeconfig.cache
+D:\Githubnew\Project 1 09062023\Numberinconsole\count-to-10\count-to-10\obj\Debug\net6.0\ref\count-to-10.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\liamh\\Documents\\GitHub\\Read-tell-impove-project\\count-to-10\\count-to-10\\count-to-10.csproj": {}
+    "D:\\Githubnew\\Project 1 09062023\\Numberinconsole\\count-to-10\\count-to-10\\count-to-10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\liamh\\Documents\\GitHub\\Read-tell-impove-project\\count-to-10\\count-to-10\\count-to-10.csproj": {
+    "D:\\Githubnew\\Project 1 09062023\\Numberinconsole\\count-to-10\\count-to-10\\count-to-10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\liamh\\Documents\\GitHub\\Read-tell-impove-project\\count-to-10\\count-to-10\\count-to-10.csproj",
+        "projectUniqueName": "D:\\Githubnew\\Project 1 09062023\\Numberinconsole\\count-to-10\\count-to-10\\count-to-10.csproj",
         "projectName": "count-to-10",
-        "projectPath": "C:\\Users\\liamh\\Documents\\GitHub\\Read-tell-impove-project\\count-to-10\\count-to-10\\count-to-10.csproj",
+        "projectPath": "D:\\Githubnew\\Project 1 09062023\\Numberinconsole\\count-to-10\\count-to-10\\count-to-10.csproj",
         "packagesPath": "C:\\Users\\liamh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\liamh\\Documents\\GitHub\\Read-tell-impove-project\\count-to-10\\count-to-10\\obj\\",
+        "outputPath": "D:\\Githubnew\\Project 1 09062023\\Numberinconsole\\count-to-10\\count-to-10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
